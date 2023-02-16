@@ -1,7 +1,16 @@
 Guido van Rossum developed Python programming Language in December 1989.
 Object-oriented and Structured programming Python supports.
-Yes Python is case-senstive while dealing with identifiers.
+Yes, Python is case-senstive while dealing with identifiers.
 .py is the correct extension for the python file.
 Python code is interpreted.
 Module, a class definition or a function body are some blocks of code used for python language.
-# used for single-line comments in python.
+'#' used for single-line comments in python.
+Using python_version() function we can find the version of python that we are currently working on.
+Python supports the creation of anonymous functions at runtime, using a constuctor called LAMBDA.
+pip stands for preferred installer program
+Some built-in functions are : len(), count(), print(), type(), uppercase(), lowercase(), sorted(), remove(), slice(), pop(), .
+79 characters is the maximum possible length of an identifier in python.
+Benefits of using python : Data science, web-development, finance and trading, computer graphics, Basic game development.
+Memory management in Python involves a private heap containing all Python objects and data structures. The management of this private heap is ensured internally by the Python memory manager.
+Clicking on the Environment Variables button on the bottom right.In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.Clicking on New and entering Python’s install directory.
+Yes, indentation required in python.
